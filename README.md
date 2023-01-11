@@ -1,4 +1,4 @@
-# StackOverFlowPosts
+# Useful StackOverFlow Posts For Web Development
 Here is a collection of Stack overflow posts I found extremely Helpful for Web Dev
 
 ## Intersection of 2 arrays JS
